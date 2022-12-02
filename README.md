@@ -17,14 +17,14 @@ Making this as short and concise as possible reduces the overhead in including s
 An example, short, copyright statement is reproduced below, as it might appear in different coding languages. Copy and add to files as appropriate: 
 
 #### plaintext
+It is common to include copyright statements at the bottom of a text document or website page
 ```text
-*********************************************************************************************
-* Copyright 2022 ACCESS-NRI and contributors. See the top-level COPYRIGHT file for details. *
-* SPDX-License-Identifier: Apache-2.0                                                       *
-*********************************************************************************************
+© 2022 ACCESS-NRI and contributors. See the top-level COPYRIGHT file for details. 
+SPDX-License-Identifier: Apache-2.0
 ```
 
 #### python
+For code it is more common to include the copyright in a comment at the top
 ```python
 # Copyright 2022 ACCESS-NRI and contributors. See the top-level COPYRIGHT file for details.
 # SPDX-License-Identifier: Apache-2.0
