@@ -1,10 +1,19 @@
-# General Repository Template
+# REPOSITORY SETUP
 
-A general template repository for default settings when creating new repositories.
+> [!IMPORTANT]
+> **If you have been designated as an admin for this repository, complete the following setup tasks before sharing this repository.**
+>
+> 1. **Set at least 2 repository admins**<br> Go to **Settings** > **Collaborators and teams** and add at least 2 people as admins (including yourself).
+> 2. **Update the About section**<br> Click the gear icon at the top-right of the repository's main page and:
+>    - Write a clear repository **Description**
+>    - Include the GitHub handles of all admins in the description, e.g. _Admins: @admin1, @admin2_
+>    - Add relevant **Topics** — see [topic tags](https://github.com/ACCESS-NRI/dev-docs/wiki/GitHub-Organizations#topic-tags) for guidance
+> 3. **Apply branch protection rulesets**<br> Add the appropriate [branch protection rulesets](https://github.com/ACCESS-NRI/.github/tree/main/rulesets#readme) for this repository.
+> 4. **Update this README**<br> Modify this README as appropriate for the repository documentation.
 
-This repository uses the Apache-2.0 license. `COPYRIGHT.txt` contains a current copyright statement which should be included at the top of all files.
+## Use this repository as a template
 
-When creating a new repository you [can use this repository as a template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template), to automate the creation of the correct license and COPYRIGHT statement.
+When creating a new repository you [can use this repository as a template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template), to automate the creation of the correct license and COPYRIGHT statements.
 
 ## COPYRIGHT Header
 
